@@ -1,1 +1,4 @@
-# World_Weather_Analysis
+# World Weather Analysis
+In this assingment, we used Google Maps APIs to help a travel planning service create an interractive map that allows their clients to select their ideal vacation destinations based on the minimum and maximum temperature they would like to endure and then create a personalized vaction itinernary that maps the distance and travel modes between the cities they would like to visit. 
+
+The Weather_Database folder houses the scripts we used to pull random coordinates and their coresponding cities. Then, the Vacation_Search folder houses the script that the clients interact with when picking the citites they want to visit and local hotel information.  And finally, the Vacation_Itinerary folder is home to script that maps the cities' weather descriptions, the distances, and travel mode options for the clients to use.  
